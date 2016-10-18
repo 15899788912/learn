@@ -1,4 +1,4 @@
 /node_modules/
 /.idea/
 /npm-debug.log
-/frontent/webpack/node_modules/
+/frontend/webpack/node_modules/
